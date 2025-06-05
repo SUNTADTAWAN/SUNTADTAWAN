@@ -22,36 +22,29 @@ Bachelor of Engineering in Robotics and Automation Engineering
 
 ## 🛠 Skills & Tech Stack
 
-### 🖥️ Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
 ### 🤖 Robotics & Embedded
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-Mitsubishi%2FSiemens%2FDelta-informational)
+![STM32](https://img.shields.io/badge/STM32-Microcontroller-blue?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-Mitsubishi_/_Siemens_/_Delta-informational?style=flat-square)
 
 ### 🛠️ CAD & Mechanical
-SolidWorks, Fusion 360, Onshape, AutoDesk  
-Cura, Ultimaker, RDWorks  
-CNC, Lathe, Milling, 3D Printing
+![SolidWorks](https://img.shields.io/badge/CAD-SolidWorks/Fusion360/Onshape/AutoDesk-blue?style=flat-square)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Cura/RDWorks/Ultimaker-orange?style=flat-square)
+![Fabrication](https://img.shields.io/badge/Fabrication-CNC/Lathe/Milling-gray?style=flat-square)
 
 ### 📟 Electronics & PCB
-Eagle, KiCad, EasyEDA, Altium Designer
+![Altium](https://img.shields.io/badge/PCB-Altium/KiCad/Eagle/EasyEDA-red?style=flat-square)
 
 ### 🧰 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-ChatGPT, PlatformIO
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-Embedded_Tool-orange?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Tool-green?style=flat-square)
+
 
 ---
 
