@@ -5,7 +5,7 @@
 
 ---
 
-## 🧭 About Me
+## 👨🏻‍💻 About Me
 
 I'm passionate about building intelligent robotic systems — bridging the gap between hardware and AI.  
 With experience in embedded programming, control systems, and ROS 2, I enjoy turning code into motion through elegant engineering.
