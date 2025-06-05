@@ -1,5 +1,3 @@
-# SUNTADTAWAN
-
 <h1 align="center">Hi there, I'm Suntadtawan 👋</h1>
 <p align="center">Robotics & AI Enthusiast | Embedded Systems | ROS2 Developer</p>
 
