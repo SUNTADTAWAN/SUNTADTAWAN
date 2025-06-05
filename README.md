@@ -20,29 +20,28 @@ Bachelor of Engineering in Robotics and Automation Engineering
 
 ## Skills & Tech Stack
 
-```yaml
-Languages:
+**Languages**:
   - C / C++ / C#
   - Python, Java, JavaScript, HTML
   - MATLAB / Simulink
 
-Robotics & Systems:
+**Robotics & Systems**:
   - ROS 2 (Humble)
   - STM32, Arduino, ESP, Raspberry Pi, Jetson
   - PLCs (Mitsubishi, Siemens, Delta)
 
-Mechanical Design:
+**Mechanical Design**:
   - Structure & Mechanism Design
   - CAD Tools: SolidWorks, Fusion 360, Onshape, AutoDesk
   - 3D Printing Tools: Cura, Ultimaker, RDWorks
   - Fabrication: CNC, Lathe, Milling, 3D Printing
 
-Electronics & PCB:
+**Electronics & PCB**:
   - Eagle, KiCad, EasyEDA, Altium Designer
 
-Tools:
+**Tools**:
   - GitHub, Docker, ChatGPT, PlatformIO, VS Code
-```
+
 ---
 
 ## Experience
