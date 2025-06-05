@@ -56,7 +56,7 @@ Bachelor of Engineering in Robotics and Automation Engineering
 - Mechanical Design Co-Developer  
 - Software & Hardware Integration
 
-### Developer — PST SMART TECHNOLOGY CO., LTD.  
+### Co-Founder / Developer — PST SMART TECHNOLOGY CO., LTD.  
 - Software Developer  
 - Mechanical Developer  
 - Network System Developer
