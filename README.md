@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-hero-generator.herokuapp.com/api/hero?name=Tadtawan%20Chaloempornmongkol&description=Robotics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Mechanical%20Design&font=Fira%20Code&theme=tokyonight" width="100%" />
-</div>
+
 
 <h1 align="center">Hi, I'm Tadtawan Chaloempornmongkol</h1>
 <p align="center"><em>Robotics Engineer · Embedded Systems · Mechanical Design</em></p>
