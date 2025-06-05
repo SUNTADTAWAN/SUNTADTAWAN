@@ -48,7 +48,7 @@ Tools:
 ## Experience
 
 ### Research Assistant — KMUTT
-**Project: Floating Solar Farm Cleaning Robot (collaboration with EGAT)**
+**Project**: Floating Solar Farm Cleaning Robot (collaboration with EGAT)
 
 - Network System Developer
 - Mechanical Design Co-Developer
