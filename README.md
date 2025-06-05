@@ -32,9 +32,9 @@ Bachelor of Engineering in Robotics and Automation Engineering
 
 **Mechanical Design**:
   - Structure & Mechanism Design
-  - CAD Tools: SolidWorks, Fusion 360, Onshape, AutoDesk
-  - 3D Printing Tools: Cura, Ultimaker, RDWorks
-  - Fabrication: CNC, Lathe, Milling, 3D Printing
+  - **CAD Tools**: SolidWorks, Fusion 360, Onshape, AutoDesk
+  - **3D Printing Tools**: Cura, Ultimaker, RDWorks
+  - **Fabrication**: CNC, Lathe, Milling, 3D Printing
 
 **Electronics & PCB**:
   - Eagle, KiCad, EasyEDA, Altium Designer
