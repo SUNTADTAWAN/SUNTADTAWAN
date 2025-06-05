@@ -43,6 +43,7 @@ Electronics & PCB:
 Tools:
   - GitHub, Docker, ChatGPT, PlatformIO, VS Code
 ```
+---
 
 ## Experience
 
@@ -58,11 +59,15 @@ Tools:
 - Mechanical Developer
 - Network System Developer
 
+---
+
 ## Competitions
 
 ### ABU Robocon Thailand 2022
 - **Role**: Team Leader & Competitor
 - **Contribution**: Mechanical Design Co-Developer
+
+---
 
 ## Contact Me
 
